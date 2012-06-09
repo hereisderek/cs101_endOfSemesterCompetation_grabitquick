@@ -1,0 +1,4 @@
+#!sh
+cd ./bin
+pwd
+java ./A3 
