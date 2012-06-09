@@ -29,4 +29,4 @@ up key to speed up
 9!    while in the game, type arraw key  [up] [up] [down] [down] [left] [right] [left] [right] [B] [A] to start a easer egg - racing game
 	if you survive in the racing game more than 150 seconds, you will get a award "good racer", which will display onlion, and a ascii movie [star war] through telnet (support both linux & windows)
 
-
+you can also download the zip file in binary folder, includes all class file needed for the game
